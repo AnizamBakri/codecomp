@@ -1,5 +1,5 @@
 // DSCH 3.5
-// 21/6/2022 11:39:18 PM
+
 
 
 module New4T( A,WordLine,QBar,Q);
