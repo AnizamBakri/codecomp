@@ -1,5 +1,5 @@
 // DSCH 3.5
-// 21/6/2022 11:28:41 PM
+
 
 
 module Conventional6T( BLB,BL,WL,Q,QBar);
