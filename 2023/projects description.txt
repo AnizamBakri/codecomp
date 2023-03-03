@@ -1,0 +1,16 @@
+Utilizing Machine Learning for the Early Detection of Cardiovascular Disease (2023)
+
+-Developed a machine learning model for binary classification of cardiovascular disease using a dataset of 70,000 samples. Preprocessed and cleaned the dataset, handling missing values and removing outliers.
+-Utilized Python and popular machine learning libraries such as Scikit-learn and Pandas to implement the model, evaluating its performance using accuracy, precision, and recall metrics.
+-Tuned hyperparameters of the chosen algorithm to improve the model's performance, resulting in an accuracy of 74.2% and an F1 score of 74.1% in predicting the presence of cardiovascular disease.
+
+"Machine Learning-Based Heart Attack Analysis and Prediction System"(2023)
+
+-Developed a machine learning-based system for analyzing and predicting heart attacks using the Heart Attack Analysis & Prediction Dataset.
+-The system utilized various parameters such as age, sex, resting blood pressure, and cholesterol level to accurately predict the likelihood of a heart attack with an achieved accuracy of ~85% and F1 score.
+-The system is designed to assist healthcare providers in early detection and prompt intervention, potentially saving lives and improving patient outcomes.
+
+Weather and Pollution Forecasting using Deep Learning (2023)
+-Utilized KNIME software and an LTSM neural network with KERAS to create a deep learning model for multivariate weather and pollution parameter prediction. 
+-Preprocessed the dataset by handling missing values, normalizing features, and splitting the data into training and testing sets. 
+-Fine-tuned the model's hyperparameters to obtain accurate predictions of pollution and windspeed levels using mean squared error and R2 score as evaluation metrics.
