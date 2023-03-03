@@ -1,2 +1,2 @@
-# codecomp
-compilation of code during degree and internship period
+# code compilation
+compilation of my coding journey
