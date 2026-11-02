@@ -4,7 +4,7 @@ A collection of practice code and small projects from my Bachelor of Engineering
 
 ## Contents
 
-- `2019/` to `2022/`: coursework exercises and practice programs from my degree, organised by year of study and SHRDC, including a heart-attack risk prediction notebook built on a public Kaggle dataset (linked in the notebook)(Python, C++)
+- `2019/` to `2023/`: coursework exercises and practice programs from my degree, organised by year of study and SHRDC, including a heart-attack risk prediction notebook built on a public Kaggle dataset (linked in the notebook)(Python, C++)
 - `internship/`: Example of data scripts from CITA 
 
 ## Languages & Tools
